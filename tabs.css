@@ -18,3 +18,19 @@ body {
     background-color: blue;
     color: aliceblue;
 }
+
+#starWars
+{
+    background-color: grey;
+    text-align: center;
+    font-weight: bold;
+    font-size: 10px;
+
+}
+
+.star
+{
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+}
